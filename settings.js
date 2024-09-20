@@ -3,18 +3,18 @@ const chalk = require('chalk')
 
 //contact details
 global.ownernomer = "237656520674"
-global.ownername = "Marc beta"
+global.ownername = "꧁༺ 𝓜𝓐𝓡𝓒 𝓑𝓔𝓣𝓐 ༻꧂"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
 global.ownernumber = '237656520674'  //creator number
-global.ownername = 'marc beta' //creatoe name
-global.botname = 'དbeta𝘽𝙪𝙜 𝙑2༒' //name of the bot
+global.ownername = '꧁༺ 𝓜𝓐𝓡𝓒 𝓑𝓔𝓣𝓐 ༻꧂' //creatoe name
+global.botname = 'དBeta𝘽𝙪𝙜 𝙑2༒' //name of the bot
 
 //sticker details
-global.packname = 'marc beta'
-global.author = 'དbeta𝘽𝙪𝙜 𝙑2༒\n\nYouTube KermHackTools'
+global.packname = '꧁༺ 𝓜𝓐𝓡𝓒 𝓑𝓔𝓣𝓐 ༻꧂'
+global.author = 'དBeta𝘽𝙪𝙜 𝙑2༒\n\nYouTube KermHackTools'
 
 //console view/theme
 global.themeemoji = '🪀'
